@@ -4,7 +4,7 @@ Dracula hex colors to 256 Xterm Colors
 
 | Name           | Swatch                                                        | Hex     | RGB          | HSL           | Xterm-Swatch                                                   | Xterm-Hex | Number |
 | -------------- | ------------------------------------------------------------- | ------- | ------------ | ------------- | -------------------------------------------------------------- | --------- | ------ |
-| Background     | ![Background](https://placehold.co/15x15/282a36/282a36.png)   | #282a36 | 40 42 54     | 231° 15% 18%  | ![Grey23](https://placehold.co/15x15/3a3a3a/3a3a3a.png)        | #3a3a3a   | 237    |
+| Background     | ![Background](https://placehold.co/15x15/282a36/282a36.png)   | #282a36 | 40 42 54     | 231° 15% 18%  | ![Grey19](https://placehold.co/15x15/303030/303030.png)        | #303030   | 236    |
 | Current Line   | ![Current Line](https://placehold.co/15x15/44475a/44475a.png) | #44475a | 68 71 90     | 232° 14% 31%  | ![Grey37](https://placehold.co/15x15/5f5f5f/5f5f5f.png)        | #5f5f5f   | 59     |
 | Foreground     | ![Foreground](https://placehold.co/15x15/f8f8f2/f8f8f2.png)   | #f8f8f2 | 248 248 242  | 60° 30% 96%   | ![Orchid1](https://placehold.co/15x15/ffffff/ffffff.png)       | #ffffff   | 231    |
 | Comment        | ![Comment](https://placehold.co/15x15/6272a4/6272a4.png)      | #6272a4 | 98 114 164   | 225° 27% 51%  | ![SlateBlue3](https://placehold.co/15x15/5f5faf/5f5faf.png)    | #5f5faf   | 61     |
